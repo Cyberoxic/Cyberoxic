@@ -104,10 +104,6 @@
 
 ###
 
-<img data-importer="image" align="left" height="190" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFkZjdvN3FobHUzN3B1dW5oYzlqeTdqOGtpOXZ3bjlobW40bXdmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pcJPOob91jZY9qruVW/giphy.gif"  />
-
-###
-
 <br clear="both">
 
 <div data-importer="border">
