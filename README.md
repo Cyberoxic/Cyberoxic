@@ -107,7 +107,7 @@ Education: "B.Tech — CSE(AIML)"
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberoxic&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberoxic&theme=github_dark"/>
 
 </p>
 
