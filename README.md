@@ -5,10 +5,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Swapnil-bo&color=D97757&style=for-the-badge" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/swapnil-hazra-4831322b7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://swapnilhazra.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/swapnilhazra8/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Cyberoxic&color=D97757&style=for-the-badge" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/souvik-mondal-a78142222/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/cyberoxic/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141321,50:D97757,100:141321&height=2" width="100%" />
@@ -16,70 +15,13 @@
 ### 🧑‍💻 About Me
 
 ```yaml
-name: Swapnil Hazra
+name: Souvik Mondal
 location: Kolkata, India
 current_focus: "Building privacy-first agents and local LLM systems"
-roles: [AI Engineer, Generative AI Developer, Full-Stack AI Builder]
+roles: [GenAI enthusiast, Full-Stack developer]
 education: "B.Tech — CSE(AIML)"
-interests: [Multi-Agent Pipelines, RAG, Local LLMs, Voice AI, Agentic Workflows]
-fun_fact: "I build entire AI apps in single sessions and commit every step 🔥"
-fun_fact: "I build entire AI apps in single sessions and commit every step. 🔥"
+interests: [Web Development, RAG, Local LLMs]
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141321,50:D97757,100:141321&height=2" width="100%" />
-
-### 🔥 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**🤖 [J.A.R.V.I.S.](https://github.com/Swapnil-bo/jarvis)**
-Local voice assistant with surgical performance optimizations, self-healing prompts, and WhatsApp automation.
-`Python` `Ollama` `Voice AI` `Automation`
-
-</td>
-<td width="50%">
-
-**🧠 [NEXUS](https://github.com/Swapnil-bo/NEXUS)**
-Neural EXecution & Understanding System — multi-agent self-correcting Python code pipeline using LangGraph + Ollama.
-`LangGraph` `Ollama` `Multi-Agent` `Python`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🎛️ [SynthBoard](https://github.com/Swapnil-bo/SynthBoard)**
-Local-first MLOps platform — QLoRA fine-tune any LLM on consumer GPUs, then pit it against the base model in a blind Elo arena. Full pipeline: upload → train → export → evaluate.
-`Python` `FastAPI` `React` `unsloth` `QLoRA` `Ollama`
-
-</td>
-<td width="50%">
-
-**🔍 [AutoResearcher](https://github.com/Swapnil-bo/AutoResearcher)**
-Local 3-agent deep research system — open-source Perplexity alternative. Reads the web, cites every claim, streams a full report. Runs entirely on a 6GB GPU. Zero API keys.
-`LangGraph` `ChromaDB` `FastAPI` `React` `Ollama` `RAG`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🧩 [AI Product Teardown](https://github.com/Swapnil-bo/Ai-Product-Teardown)**
-Drop any product URL — get a board-room-grade PM teardown in 15 seconds. Personas, moat analysis, monetization gaps, red flags, and a kill/pivot/hold/scale verdict.
-`Python` `FastAPI` `React` `Groq` `LLaMA 3.3 70B`
-
-</td>
-<td width="50%">
-
-**📰 [The Multiverse Courier](https://github.com/Swapnil-bo/The-Multiverse-Courier)**
-AI newspaper that generates today's headlines from alternate timelines using a local LLM (Ollama + Mistral 7B).
-`FastAPI` `React` `Vite` `Tailwind` `Ollama` `Mistral 7B`
-
-</td>
-</tr>
-</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141321,50:D97757,100:141321&height=2" width="100%" />
 
