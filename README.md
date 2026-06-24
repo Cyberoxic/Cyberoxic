@@ -105,13 +105,9 @@ Education: "B.Tech — CSE(AIML)"
 
 # 📈 Activity Graph
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberoxic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true"/>
-
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141321,50:D97757,100:141321&height=2" width="100%" />
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Cyberoxic/Cyberoxic/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
 
 ---
 
