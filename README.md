@@ -15,12 +15,10 @@
 ### 🧑‍💻 About Me
 
 ```yaml
-name: Souvik Mondal
-location: Kolkata, India
-current_focus: "Building privacy-first agents and local LLM systems"
-roles: [GenAI enthusiast, Full-Stack developer]
-education: "B.Tech — CSE(AIML)"
-interests: [Web Development, RAG, Local LLMs]
+Name: Souvik Mondal
+Location: Kolkata, India
+Roles: [Full-Stack developer, SDE, SWE, GenAI enthusiast]
+Education: "B.Tech — CSE(AIML)"
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141321,50:D97757,100:141321&height=2" width="100%" />
