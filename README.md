@@ -79,23 +79,20 @@ Education: "B.Tech — CSE(AIML)"
 </p>
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141321,50:D97757,100:141321&height=2" width="100%" />
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</div>
 
 <div align="center">
   <b>⚡ "Dream Big. Work Hard. Achieve It." ⚡</b>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:141321&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141321,50:D97757,100:141321&height=2" width="100%" />
 
 # 📊 GitHub Stats
 
 <p align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cyberoxic&show_icons=true&theme=github_dark&hide_border=true"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141321,50:D97757,100:141321&height=2" width="100%" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberoxic&layout=compact&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true"/>
 
@@ -120,6 +117,8 @@ Education: "B.Tech — CSE(AIML)"
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberoxic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true"/>
 
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141321,50:D97757,100:141321&height=2" width="100%" />
 
 ---
 
