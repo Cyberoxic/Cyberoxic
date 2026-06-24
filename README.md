@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,100:D97757&height=180&section=header&text=&fontSize=0" width="100%" />
 
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=D97757&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Souvik+Mondal;Web+Developer+%7C+Generative+AI;AI+tools+%7C+Software+Developer" alt="Typing SVG" />
 </div>
@@ -112,6 +113,8 @@ Education: "B.Tech — CSE(AIML)"
 </p>
 
 </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:141321&height=120&section=footer" width="100%" />
+
 
 ---
 
