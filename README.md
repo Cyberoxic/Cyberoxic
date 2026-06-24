@@ -39,26 +39,23 @@ Education: "B.Tech — CSE(AIML)"
 </details>
 
 <details open>
-<summary><b>AI / ML</b></summary>
+<summary><b>Frontend</b></summary>
 <br/>
 <p>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-339933?logo=nextdotjs&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-009688?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 </details>
 
 <details open>
-<summary><b>Frameworks & Libraries</b></summary>
+<summary><b>Backend and API</b></summary>
 <br/>
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Next.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-339933?logo=expressdotjs&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white"/>
 </p>
 </details>
 
@@ -68,26 +65,17 @@ Education: "B.Tech — CSE(AIML)"
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge"/>
 </p>
 </details>
 
 <details open>
-<summary><b>Hosting and Deployment</b></summary>
+<summary><b>DevOps & Tools</b></summary>
 <br/>
 <p>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</p>
-</details>
-
-<details open>
-<summary><b>Tools, Architecture & Version Control</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 </details>
@@ -99,7 +87,7 @@ Education: "B.Tech — CSE(AIML)"
 </div>
 
 <div align="center">
-  <b>⚡ "Ship fast. Break things. Let the agents fix it." ⚡</b>
+  <b>⚡ "Dream Big. Work Hard. Achieve It." ⚡</b>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:141321&height=120&section=footer" width="100%" />
