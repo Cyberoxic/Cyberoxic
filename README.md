@@ -80,7 +80,7 @@ Education: "B.Tech — CSE(AIML)"
 </details>
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-x-Aryan&show_icons=true&theme=tokyonight"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141321,50:D97757,100:141321&height=2" width="100%" />
 
 # 📊 GitHub Stats
 
