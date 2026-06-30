@@ -90,6 +90,9 @@ Education: "B.Tech — CSE(AIML)"
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cyberoxic&show_icons=true&theme=github_dark&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberoxic&layout=compact&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true"/>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Cyberoxic/Cyberoxic/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+</div>
 
 </p>
 
