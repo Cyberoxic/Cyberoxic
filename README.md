@@ -92,10 +92,9 @@ Education: "B.Tech — CSE(AIML)"
 </div>
 
 </p>
--->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141321,50:D97757,100:141321&height=2" width="100%" />
-
+-->
 
 # 🔥 GitHub Streak
 
