@@ -84,7 +84,7 @@ Education: "B.Tech — CSE(AIML)"
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141321,50:D97757,100:141321&height=2" width="100%" />
 
-# 📊 GitHub Stats
+<!-- # 📊 GitHub Stats
 
 <p align="center">
 
@@ -94,7 +94,7 @@ Education: "B.Tech — CSE(AIML)"
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141321,50:D97757,100:141321&height=2" width="100%" />
-
+-->
 # 🔥 GitHub Streak
 
 <p align="center">
