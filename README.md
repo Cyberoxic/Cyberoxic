@@ -16,10 +16,11 @@
 ### 🧑‍💻 About Me
 
 ```yaml
-Name: Souvik Mondal
-Location: Kolkata, India
-Roles: [Full-Stack developer, SDE, SWE, GenAI enthusiast]
-Education: "B.Tech — CSE(AIML)"
+🎓 Computer Science Student
+💻 Full Stack Developer
+⚡ Building real-time applications
+🧠 DSA and GenAI Enthusiast
+🎯 Goal: To build something that makes a real difference
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141321,50:D97757,100:141321&height=2" width="100%" />
